@@ -1,4 +1,4 @@
-# Automation Exercise - Test Case 1: Register User
+# BOSSHOSS - Automation Exercise Test Case 1
 
 This repository contains the automation script for **Test Case 1: Register User** from [automationexercise.com](https://automationexercise.com/test_cases).
 
@@ -58,6 +58,7 @@ python test_case_1_register_user.py
 BOSSHOSS/
 ├── test_case_1_register_user.py    # Main test automation script
 ├── requirements.txt                # Python dependencies
+├── run_test.py                     # Test runner script
 └── README.md                      # This file
 ```
 
